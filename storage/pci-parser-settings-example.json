@@ -1,0 +1,12 @@
+{
+  "biorxivTopic":  "evolutionary_biology",
+  "emailFromAddress": "my.name@myuniversity.org",
+  "emailFromName": "My Full Name",
+  "emailTo": [
+    "my.name@myuniversity.org",
+    "some.other.receipient@gmail.com"
+  ],
+  "emailHostName": "smtp.gmail.com",
+  "emailHostUser": "my.name@myuniversity.org",
+  "emailHostPass": "p@ssword1234"
+}

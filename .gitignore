@@ -1,0 +1,4 @@
+.idea
+.gradle
+build/
+storage/pci-parser-settings.json
